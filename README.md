@@ -1,10 +1,10 @@
 # Primeiro_Repositorio
-Dio - Desafio de projeto com Git e GitHub
+Dio - Desafio de projeto com Git e GitHub 16/07/2022
 
- Oii :)
+Oii :)
  
 ## Redes sociais de Ghiovanna Lanzzarini
-[GitHub](https://github.com/GiLanzzarini
+[GitHub](https://github.com/GiLanzzarini)
 
 [Linkedin](https://www.linkedin.com/in/ghiovanna-lanzzarini-34b3151bb/)
 
